@@ -59,7 +59,7 @@ const CriarTarefa = ({handleClose, tarefas, setTarefas}) =>{
       <Card sx={style}>
         <CardHeader
           title="Atividades"
-          subheader="Cadastro de Ativides"
+          subheader="Cadastro de Atividades"
         /> 
         <CardContent sx={{
           width: '95%',
